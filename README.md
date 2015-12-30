@@ -30,3 +30,5 @@ Please note the SRC and DEST in the script. These are hardcoded from my machine 
 Using **jruby 1.7.0 (1.9.3p203)**
 
 For Zip/Unzip, I am using java.util.zip package, because it can handle zips > 4 GB. 
+
+Author : Niranjan Sarade
